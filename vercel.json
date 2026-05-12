@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://fapi.binance.com/$1"
+      "destination": "https://api.bytick.com/$1"
     }
   ]
 }
